@@ -2,7 +2,7 @@
 
 A sort mood test for the sloth machine to see how I could play around with different elements and the like.
 
-<video src="./sloth-demo.mp4"></video>
+![Demo animation no reel spinning](demo.gif)
 
 ## Motivation
 
