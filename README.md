@@ -19,3 +19,7 @@ Using AI and GIMP, I was able to remove pieces of the foreground in different de
 No, I wanted to add reel spinning, but when I started hearing voices telling me to make the eyes blink I realised I'd gone too deep down the rabbit hole. So, I backed away, wrote this README file and committed my changes.
 
 No more, this is just a kinda joke test, so nothing too serious here.
+
+## Run the project
+
+I made this simple on purpose, so running it is a matter of just using this command `npx serve . -C -p 8080`
